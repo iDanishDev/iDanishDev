@@ -5,7 +5,7 @@
 
 ### Glad to see you here!  ![](https://visitor-badge.glitch.me/badge?page_id=iDanishDev.iDanishDev&style=flat-square&color=0088cc)
 
-I have recently completed my Bachelors's in Information Technology 🎓 from KJ Somaiya College of Engineering 🏛. I am currently working as a Technology Trainee at RBL Bank. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 💻. I'm currently into Data Science and Software Development 🕸️ and working on my Data Structures and Algorithms. 🤓
+I am pursuing my Bachelors's in Computer Engineering 🎓 from KJ Somaiya College of Engineering 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 💻. I'm currently into Data Science and Software Development 🕸️ and working on my Data Structures and Algorithms. 🤓
 
 
 
