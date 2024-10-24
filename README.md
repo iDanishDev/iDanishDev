@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Mohammed Danish!](https://github.com/iDanishDev)
+## Hey 👋, I'm [Danish!](https://github.com/iDanishDev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-danish-ansari-4076311a4/)
 
